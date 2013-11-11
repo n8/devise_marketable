@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["nate@cityposh.com"]
   spec.description   = %q{A simple way to have Devise capture important marketing data.}
   spec.summary       = %q{A simple way to have Devise capture important marketing data.}
-  spec.homepage      = ""
+  spec.homepage      = "http://ninjasandrobots.com/marketable_for_devise"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
