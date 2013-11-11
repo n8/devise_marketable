@@ -76,6 +76,6 @@ Feedback
 
 ---------------
 
-Here's a great short presentation from Mike on tracking user metrics. 
+[Here's a great short presentation from Mike on tracking user metrics](http://vimeo.com/10733370).
 
 <iframe src="//player.vimeo.com/video/10733370" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
