@@ -1,11 +1,11 @@
-Devise Marketable
+Marketable for Devise
 ===================
 
 > If this person turns out to be our best customer, we want to know where they came from. 
 
 > **Mike McDerment**, CEO of FreshBooks 
 
-Devise Marketable lets you easily store where your user came from and where they were going in your Rails app.
+Marketable lets Devise users easily store where your user came from and where they were going in your Rails app.
 
 
 ## Background
@@ -18,7 +18,7 @@ When I say marketing, I'm referring to everything related to getting customers, 
 
 It's super easy to capture this data, but most of us don't, because it's even more friction to getting features done for our customers. Or we rely on 3rd party analytics tools. Some are great, but what happens when you want to switch analytics tools or do something custom they can't do. Then your data is locked up.
 
-I created Devise Marketable to automatically track the most basic and important marketing data we should be tracking alongside our User data (using [Devise](https://github.com/plataformatec/devise)) in our own database. (And so that I could add it to [Draft](http://draftin.com), a tool I've created to help people [write better](http://draftin.com).)
+I created Marketable to automatically track the most basic and important marketing data we should be tracking alongside our User data (using [Devise](https://github.com/plataformatec/devise)) in our own database. (And so that I could add it to [Draft](http://draftin.com), a tool I've created to help people [write better](http://draftin.com).)
 
  
 Installation
