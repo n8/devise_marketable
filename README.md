@@ -65,7 +65,7 @@ That's it. You now have some very powerful data: where your best customers come 
 
 P.S. [**I'd love to meet you on Twitter: here**](http://twitter.com/natekontny). 
 
-<iframe src="https://draftin.com/share_buttons/new.html?url=http%3A%2F%2Fninjasandrobots.com%2Fmarketable_for_devise&title=Marketable%20for%20Devise" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:800px; height:21px; padding-left:50px" allowtransparency="true" ></iframe>
+<iframe src="https://draftin.com/share_buttons/new.html?url=http%3A%2F%2Fninjasandrobots.com%2Fmarketable-for-devise&title=Marketable%20for%20Devise" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:800px; height:21px; padding-left:50px" allowtransparency="true" ></iframe>
 
 
 ---------------
