@@ -49,13 +49,7 @@ rails g devise_marketable User
 rake db:migrate
 ```
 
-5) Make your devise model "marketable"
-
-```
-devise :database_authenticatable, ..., :marketable
-```
-
-6) Restart your server
+5) Restart your server
 
 ------------
 
