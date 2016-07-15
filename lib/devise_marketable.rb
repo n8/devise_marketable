@@ -7,9 +7,9 @@ module DeviseMarketable
 
   module Controller
     extend ActiveSupport::Concern
-    
+
     included do
-      before_filter :set_tracking_cookies
+      before_action :set_tracking_cookies
     end
 
     def set_tracking_cookies
@@ -54,4 +54,3 @@ module DeviseMarketable
   end
 
 end
-
