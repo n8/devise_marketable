@@ -27,7 +27,7 @@ I created Marketable to automatically track the most basic and important marketi
 1) Add 'devise_marketable' to your Gemfile. 
 
 ```
-gem 'devise_marketable'
+gem 'devise_marketable', git: 'https://github.com/excid3/devise_marketable'
 ```
 
 2) Run `bundle install`
