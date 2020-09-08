@@ -26,6 +26,14 @@ I created Marketable to automatically track the most basic and important marketi
 
 1) Add 'devise_marketable' to your Gemfile. 
 
+```ruby
+source "https://rubygems.pkg.github.com/excid3" do
+  gem "devise_marketable", "~> 1.0"
+end
+```
+
+Or from the master branch:
+
 ```
 gem 'devise_marketable', git: 'https://github.com/excid3/devise_marketable'
 ```
