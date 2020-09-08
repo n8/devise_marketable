@@ -57,19 +57,12 @@ Devise will now automatically create 2 cookies for your users, the referring_url
 
 That's it. You now have some very powerful data: where your best customers come from, what traffic sources are your most lucrative, what on your website converts the best, what people are most interested in, etc. 
 
-P.S. [**I'd love to meet you on Twitter: here**](http://twitter.com/natekontny). 
-
-<iframe src="https://draftin.com/share_buttons/new.html?url=http%3A%2F%2Fninjasandrobots.com%2Fmarketable-for-devise&title=Marketable%20for%20Devise" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:800px; height:21px; padding-left:50px" allowtransparency="true" ></iframe>
-
-
 ---------------
 
 Feedback
 --------
-[Source code available on Github](https://github.com/n8/devise_marketable). Feedback and pull requests are greatly appreciated.  Let me know if I can improve this.
+[Source code available on Github](https://github.com/excid3/devise_marketable). Feedback and pull requests are greatly appreciated.  Let me know if I can improve this.
 
 ---------------
 
 [Here's a great short presentation from Mike on tracking user metrics](http://vimeo.com/10733370).
-
-<iframe src="//player.vimeo.com/video/10733370" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
