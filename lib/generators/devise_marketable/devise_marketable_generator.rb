@@ -24,7 +24,12 @@ class DeviseMarketableGenerator < Rails::Generators::NamedBase
 
 
   def create_migration_file
-    migration_template 'migration.rb', "db/migrate/devise_add_marketable_#{name.downcase}.rb"
+    migration_template 'migration.rb', "db/migrate/devise_add_marketable_#{name.underscore}.rb"
+  end
+
+  def inject_devise_invitable_content
+    path = File.join("app", "models", "#{file_path}.rb")
+    inject_into_file(path, "marketable, :", :after => "devise :") if File.exists?(path)
   end
 
   protected
